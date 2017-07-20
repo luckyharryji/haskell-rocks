@@ -1,0 +1,2 @@
+# haskell-rocks
+practice haskell
